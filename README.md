@@ -80,7 +80,7 @@ Own and build your own iOS app.
 [Raymond]()  
 [Stephanie]()  
 [Tingxin]()  
-[Yaz]()  
+[Yaz](https://github.com/yazzy4/WorkoutApp)  
   
 </details> 
 
